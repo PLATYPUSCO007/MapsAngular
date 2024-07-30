@@ -10,7 +10,6 @@ import { MarkersPageComponent } from './Pages/markers-page/markers-page.componen
 import { PropertiesPageComponent } from './Pages/properties-page/properties-page.component';
 import { ZoomRangePageComponent } from './Pages/zoom-range-page/zoom-range-page.component';
 
-
 @NgModule({
   declarations: [
     MiniMapComponent,
